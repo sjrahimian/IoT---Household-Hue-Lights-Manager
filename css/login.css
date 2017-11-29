@@ -1,0 +1,100 @@
+body {
+  font-family: monaco, monospace;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+input, select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.intro{
+  text-align: justify;
+  text-align: inline-block;
+  max-width: 430px;
+  padding: 5px 25px;
+  margin: 0 auto;
+  background-color: #feebb2;
+  border-radius: 10px;
+}
+
+.login{
+  text-align: inline-block;
+  max-width: 450px;
+  padding: 15px;
+  margin: 0 auto;
+  background-color: #e6e6ea;
+  border-radius: 10px;
+}
+
+.register{
+  text-align: inline-block;
+  max-width: 450px;
+  padding: 15px;
+  margin: 0 auto;
+  background-color: #d1ddfe;
+  border-radius: 10px;
+}
+
+.err{
+  color: red;
+  font-weight: bold;
+}
+
+.btn {
+  /*background-color: #6ca2f9;*/
+  border: none;
+  color: white;
+  border-radius: 5px;
+  color: #fff;
+  padding: 12px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-weight:bold;
+}
+
+.log {
+  background-color: #cee0fd;
+  color: black;
+  border: 2px solid #85b2fa;
+  padding: 12px 79px;
+}
+
+.log:hover {
+  background-color: #85b2fa;
+}
+
+.sgn {
+  background-color: #ffcccc;
+  color: black;
+  border: 2px solid #ff8080;
+}
+
+.sgn:hover {
+  background-color: #ff8080;
+}
+
+.reg {
+  background-color: #ffcccc;
+  color: black;
+  border: 2px solid #ff8080;
+  width: 420px;
+}
+
+.reg:hover {
+  background-color: #ff8080;
+}
