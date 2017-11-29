@@ -15,9 +15,7 @@ Includes DOXYGEN type comments, and UML diagrams.
 
 
 
-
-
-
+Members Include: Kenneth Galang, Jason Chung, Sama Rahimian, Nick Friesen
 
 
 
