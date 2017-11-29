@@ -1,6 +1,8 @@
-Hue Lights Project - INTERNET OF THINGS
+<h1>Hue Lights Project - INTERNET OF THINGS</h1>
 
-Agile Project Management - School Project
+<h2>Agile Project Management - School Project</h2>
+<br>
+
 
 Includes a login authentication screen for users.
 
@@ -13,9 +15,12 @@ Sends POST, PUT, and GET requests to the server in order to manipulate lights.
 Includes DOXYGEN type comments, and UML diagrams.
 
 
+<br>
 
 
-Members Include: Kenneth Galang, Jason Chung, Sama Rahimian, Nick Friesen
+
+<h3>Members Include: Kenneth Galang, Jason Chung, Sama Rahimian, Nick Friesen</h3>
+<br>
 
 
 
