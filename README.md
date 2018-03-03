@@ -13,8 +13,7 @@ Sends POST, PUT, and GET requests to the server in order to manipulate lights.
 
 Includes DOXYGEN type comments, and UML diagrams.
 
-
-
+<br>
 <h3>Members Include: Kenneth Galang, Jason Chung, Sama Rahimian, Nick Friesen</h3>
 <br>
 
