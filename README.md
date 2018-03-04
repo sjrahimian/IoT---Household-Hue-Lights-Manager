@@ -1,8 +1,9 @@
 <h1>Hue Lights Project - INTERNET OF THINGS</h1>
+## C++, Wt library, Philips Hue API, Jira, Bitbucket
 
-<h2>Agile Project Management - School Project</h2>
+Worked in <b>Agile</b> environment with daily meetings and code reviews before every commit.
+
 <br>
-
 Includes a login authentication screen for users.
 
 Used Web Toolkit API to create a web application that can manipulate lights within a household.
