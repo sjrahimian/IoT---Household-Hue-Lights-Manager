@@ -1,5 +1,6 @@
 <h1>Hue Lights Project - INTERNET OF THINGS</h1>
-## C++, Wt library, Philips Hue API, Jira, Bitbucket
+
+### C++, Wt library, Philips Hue API, Jira, Bitbucket
 
 Worked in <b>Agile</b> environment with daily meetings and code reviews before every commit.
 
