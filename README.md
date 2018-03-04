@@ -1,4 +1,4 @@
-<h1>Hue Lights Project - INTERNET OF THINGS</h1>
+<h1>Internet Of Things – Hue Lights Project – Agile Project Management</h1>
 
 ### C++, Wt library, Philips Hue API, Jira, Bitbucket
 
